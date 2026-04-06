@@ -1,0 +1,18 @@
+# Virtual environment
+lulc_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large predictor rasters (re-downloadable from GEE)
+outputs/data/predictors_*.tif
+
+# Reference paper (copyrighted)
+*.pdf
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
